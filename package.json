@@ -1,0 +1,23 @@
+{
+  "name": "lambda-sharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosinix/lambda-sharp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kosinix/lambda-sharp/issues"
+  },
+  "homepage": "https://github.com/kosinix/lambda-sharp#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1234.0",
+    "sharp": "^0.31.1"
+  }
+}
